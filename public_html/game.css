@@ -1,0 +1,18 @@
+#main_box {
+    width: 1100px;
+    height: 570px;
+    border: 2px outset lightgrey;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 15px;
+    box-shadow: 3px 3px lightgrey, 3px 3px 20px silver;
+}
+#map {
+    width: 1095px;
+    height: 540px;
+    border: 1px solid lightgrey;
+    border-radius: 15px;
+    display: block;
+    margin-bottom: 10px;
+}
